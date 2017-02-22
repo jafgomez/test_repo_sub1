@@ -1,0 +1,3 @@
+[submodule "externals"]
+	path = externals
+	url = https://github.com/jafgomez/test_repo_sub2.git
